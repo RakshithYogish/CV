@@ -1,0 +1,60 @@
+body {
+    background-color: #DEF5E5;
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+
+    border-color: grey;
+    height: 0px;
+    border-width: 2px;
+    width: 5%;
+
+}
+
+h1 {
+    color: #069494;
+    font-family: Ink Free;
+    font-size: 350%;
+    text-align: center;
+}
+
+h5 {
+    color: #069494;
+    font-family: Ink Free;
+    font-size: 150%;
+    text-align: center;
+    
+}
+
+a:link {
+    color: mediumslateblue;
+    font-family: Ink Free;
+    font-size: 150%;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color: black;
+    font-size: 155%;
+   
+}
+
+p{
+    color: #000000;
+    font-family: Ink Free;
+    font-size: 130%;
+    text-align: left;
+}
+
+label{
+    color: #934aeb;
+    font-family: Ink Free;
+    font-size: 150%;
+
+
+}
+ 
